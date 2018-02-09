@@ -1,5 +1,5 @@
 # Caltech-256
-Caltech-256 is a challenging set of 257 (including the last category of clutter) object categories containing a total of only 30607 images. Furthermore this dataset is imbalanced as seen in the plot below. In this exercise I utilized different Neural Network architectures and compare their performance. This project took me exactly 1 month because of the scale of the problem and the training and tweaking multiple CNN models most took overnight to train.
+Caltech-256 is a challenging set of 257 (including the last category of clutter) object categories containing a total of only 30607 images. Furthermore this dataset is imbalanced as seen in the plot below. In this exercise I utilized different Neural Network architectures and compare their performance. This project took me exactly 1 month because of the scale of the problem and the training and tweaking multiple CNN models that most took overnight to train.
 
 # Sample Images
 ![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/Sample.png)
