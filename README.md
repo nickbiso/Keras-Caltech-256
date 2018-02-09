@@ -3,7 +3,7 @@
 
 # Results
 
-| Model                | Accuracy(test set)| 
+| Model                | Accuracy(Test-set)| 
 |:---------------------------------- |:---:| 
 |Fully Connected                     | 14% |
 |VGG                                 | 44% | 
