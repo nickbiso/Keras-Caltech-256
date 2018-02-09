@@ -5,7 +5,8 @@
 
 | Model                | Accuracy(test set)| 
 |:---------------------------------- |:---:| 
-|VGG                                 | 14% | 
+|Fully Connected                     | 14% |
+|VGG                                 | 44% | 
 |Inception                           | 45% | 
 |Resnet                              | 48% |  
 |VGG (Transfer-Learning)             | 57% |  
